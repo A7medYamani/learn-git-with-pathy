@@ -1,0 +1,1 @@
+Learned basic Git commands, repository setup, and pushing code to GitHub.
